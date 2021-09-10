@@ -19,7 +19,7 @@ const ProfilePage: React.FC = () => {
       <Banner>
         <Avatar>
           <img
-            src="https://avatars1.githubusercontent.com/u/53025782?s=400&u=f1ffa8eaccb8545222b7c642532161f11e74a03d&v=4"
+            src="https://avatars.githubusercontent.com/u/7442958?v=4"
             alt="Yauheni Padvoiski"
           />
         </Avatar>
@@ -34,7 +34,7 @@ const ProfilePage: React.FC = () => {
         <p>
           Developer at{' '}
           {/* eslint-disable-next-line react/jsx-no-target-blank */}
-          <a href="https://www.linkedin.com/in/eltonlazzarin/" target="_blank">
+          <a href="https://www.linkedin.com/in/ypadvoiski/" target="_blank">
             @WordlLab
           </a>
         </p>
