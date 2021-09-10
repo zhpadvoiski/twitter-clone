@@ -35,18 +35,18 @@ const ProfilePage: React.FC = () => {
           Developer at{' '}
           {/* eslint-disable-next-line react/jsx-no-target-blank */}
           <a href="https://www.linkedin.com/in/ypadvoiski/" target="_blank">
-            @WordlLab
+            @EmploSoft
           </a>
         </p>
 
         <ul>
           <li>
             <LocationIcon />
-            São José do Rio Preto, Brazil
+            Chicago, Il
           </li>
           <li>
             <CakeIcon />
-            Born on May 13, 1989
+            Born on July 2, 1993
           </li>
         </ul>
 
