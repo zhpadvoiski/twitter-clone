@@ -20,7 +20,7 @@ const ProfilePage: React.FC = () => {
         <Avatar>
           <img
             src="https://avatars1.githubusercontent.com/u/53025782?s=400&u=f1ffa8eaccb8545222b7c642532161f11e74a03d&v=4"
-            alt="Elton Lazzarin"
+            alt="Yauheni Padvoiski"
           />
         </Avatar>
       </Banner>
@@ -28,8 +28,8 @@ const ProfilePage: React.FC = () => {
       <ProfileData>
         <EditButton outlined>Set up profile</EditButton>
 
-        <h1>Elton Lazzarin</h1>
-        <h2>@elton_lazzarin</h2>
+        <h1>Yauheni Padvoiski</h1>
+        <h2>@yauheni_padvoiski</h2>
 
         <p>
           Developer at{' '}
